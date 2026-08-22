@@ -11,11 +11,7 @@ class Solution {
             product *= rem;
             n=n/10;
         }
-        // return (sum+product)==ans) ? true : false;
-        if(ans % (sum+product)==0)
-        {
-            return true;
-        }
-        return false;
+        return (ans % (sum+product) == 0) ? true : false;
+        
     }
 }
