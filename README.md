@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/suleman2212/Leetcode/tree/master/0001-two-sum) |
+| [0189-rotate-array](https://github.com/suleman2212/Leetcode/tree/master/0189-rotate-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/suleman2212/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Simulation
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/suleman2212/Leetcode/tree/master/0189-rotate-array) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/suleman2212/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Database
 |  |
@@ -27,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0176-second-highest-salary](https://github.com/suleman2212/Leetcode/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/suleman2212/Leetcode/tree/master/0177-nth-highest-salary) |
 | [0178-rank-scores](https://github.com/suleman2212/Leetcode/tree/master/0178-rank-scores) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/suleman2212/Leetcode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
