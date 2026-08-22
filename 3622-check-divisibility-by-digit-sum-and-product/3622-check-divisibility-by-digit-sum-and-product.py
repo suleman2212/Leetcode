@@ -9,7 +9,7 @@ class Solution:
             sum+=rem
             product*=rem
             n=n//10
-            print(n)
+            
         
         return ans%(sum+product)==0
    
