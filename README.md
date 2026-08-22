@@ -20,4 +20,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/suleman2212/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/suleman2212/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
