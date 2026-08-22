@@ -1,0 +1,21 @@
+class Solution {
+    public boolean checkDivisibility(int n) 
+    {
+        int sum=0;
+        int product=1;
+        int ans=n;
+        while(n>0)
+        {
+            int rem=n%10;
+            sum+=rem;
+            product *= rem;
+            n=n/10;
+        }
+        // return (sum+product)==ans) ? true : false;
+        if(ans % (sum+product)==0)
+        {
+            return true;
+        }
+        return false;
+    }
+}
