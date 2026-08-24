@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/suleman2212/Leetcode/tree/master/0189-rotate-array) |
+| [1927-sum-game](https://github.com/suleman2212/Leetcode/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/suleman2212/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Database
 |  |
@@ -33,4 +34,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/suleman2212/Leetcode/tree/master/0189-rotate-array) |
+## String
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/suleman2212/Leetcode/tree/master/1927-sum-game) |
+## Greedy
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/suleman2212/Leetcode/tree/master/1927-sum-game) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/suleman2212/Leetcode/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
