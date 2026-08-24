@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/suleman2212/Leetcode/tree/master/0001-two-sum) |
 | [0189-rotate-array](https://github.com/suleman2212/Leetcode/tree/master/0189-rotate-array) |
+| [0877-stone-game](https://github.com/suleman2212/Leetcode/tree/master/0877-stone-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/suleman2212/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Simulation
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/suleman2212/Leetcode/tree/master/0189-rotate-array) |
+| [0877-stone-game](https://github.com/suleman2212/Leetcode/tree/master/0877-stone-game) |
 | [1927-sum-game](https://github.com/suleman2212/Leetcode/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/suleman2212/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Database
@@ -47,5 +49,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/suleman2212/Leetcode/tree/master/0877-stone-game) |
 | [1927-sum-game](https://github.com/suleman2212/Leetcode/tree/master/1927-sum-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/suleman2212/Leetcode/tree/master/0877-stone-game) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/suleman2212/Leetcode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/suleman2212/Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
