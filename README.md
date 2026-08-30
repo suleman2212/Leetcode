@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/suleman2212/Leetcode/tree/master/0001-two-sum) |
 | [0189-rotate-array](https://github.com/suleman2212/Leetcode/tree/master/0189-rotate-array) |
 | [0877-stone-game](https://github.com/suleman2212/Leetcode/tree/master/0877-stone-game) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/suleman2212/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/suleman2212/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Simulation
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/suleman2212/Leetcode/tree/master/1927-sum-game) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/suleman2212/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Game Theory
 |  |
 | ------- |
