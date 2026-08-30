@@ -11,5 +11,5 @@ class Solution:
         left=max(mini,maxi)+1
         right=n-min(mini,maxi)
         both=min(mini,maxi)+1 + n-max(mini,maxi)
-        return min(left,min(right,both))
+        return min(left,right,both)
         
