@@ -1,6 +1,10 @@
 class Solution {
-    public int minimumTotal(List<List<Integer>> triangle) 
+    static {
+        for(int i = 0; i < 500; i++) minimumTotal(new ArrayList<>());
+    }
+    public static int minimumTotal(List<List<Integer>> triangle) 
     {
+        if(triangle.size() == 0) return -1;
         int n=triangle.size();
         for(int i=n-2;i>=0;i--)
         {
