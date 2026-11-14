@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/suleman2212/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/suleman2212/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/suleman2212/Leetcode/tree/master/0189-rotate-array) |
 | [0877-stone-game](https://github.com/suleman2212/Leetcode/tree/master/0877-stone-game) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/suleman2212/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/suleman2212/Leetcode/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/suleman2212/Leetcode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/suleman2212/Leetcode/tree/master/0198-house-robber) |
@@ -119,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/suleman2212/Leetcode/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/suleman2212/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
