@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/suleman2212/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0120-triangle](https://github.com/suleman2212/Leetcode/tree/master/0120-triangle) |
 | [0189-rotate-array](https://github.com/suleman2212/Leetcode/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/suleman2212/Leetcode/tree/master/0198-house-robber) |
 | [0746-min-cost-climbing-stairs](https://github.com/suleman2212/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/suleman2212/Leetcode/tree/master/0877-stone-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/suleman2212/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/suleman2212/Leetcode/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/suleman2212/Leetcode/tree/master/0120-triangle) |
+| [0198-house-robber](https://github.com/suleman2212/Leetcode/tree/master/0198-house-robber) |
 | [0746-min-cost-climbing-stairs](https://github.com/suleman2212/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/suleman2212/Leetcode/tree/master/0877-stone-game) |
 ## Minimax
