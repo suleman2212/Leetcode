@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/suleman2212/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/suleman2212/Leetcode/tree/master/0189-rotate-array) |
 | [0877-stone-game](https://github.com/suleman2212/Leetcode/tree/master/0877-stone-game) |
 | [1927-sum-game](https://github.com/suleman2212/Leetcode/tree/master/1927-sum-game) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/suleman2212/Leetcode/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/suleman2212/Leetcode/tree/master/0120-triangle) |
 | [0877-stone-game](https://github.com/suleman2212/Leetcode/tree/master/0877-stone-game) |
 ## Minimax
@@ -107,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/suleman2212/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/suleman2212/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
