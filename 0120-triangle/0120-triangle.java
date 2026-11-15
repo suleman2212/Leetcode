@@ -1,22 +1,26 @@
 class Solution {
-    static {
-        for(int i = 0; i < 500; i++) minimumTotal(new ArrayList<>());
-    }
-    public static int minimumTotal(List<List<Integer>> triangle) 
+    public int minimumTotal(List<List<Integer>> triangle) 
     {
-        if(triangle.size() == 0) return -1;
-        int n=triangle.size();
+        int n = triangle.size();
+        int m=triangle.get(n-1).size();
+        int[][] dp=new int[n][m];
+
+        
+        for(int i=0;i<m;i++)
+        {
+            dp[m-1][i]=triangle.get(n-1).get(i);
+        }
+        
         for(int i=n-2;i>=0;i--)
         {
             for(int j=0;j<triangle.get(i).size();j++)
             {
-                int left=triangle.get(i+1).get(j);
-                int right=triangle.get(i+1).get(j+1);
-                // triangle.get(i).set(triangle.get(i).get(j),triangle.get(i).get(j)+Math.min(left,right));
-                int updated=triangle.get(i).get(j)+Math.min(left,right);
-                triangle.get(i).set(j,updated);
+                dp[i][j]=triangle.get(i).get(j) + Math.min(dp[i+1][j],dp[i+1][j+1]);
             }
         }
-        return triangle.get(0).get(0);
+        return dp[0][0];
+
+        
     }
+    
 }
