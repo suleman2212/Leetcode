@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/suleman2212/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/suleman2212/Leetcode/tree/master/0877-stone-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/suleman2212/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2895-minimum-processing-time](https://github.com/suleman2212/Leetcode/tree/master/2895-minimum-processing-time) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/suleman2212/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/suleman2212/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3875-construct-uniform-parity-array-i](https://github.com/suleman2212/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1927-sum-game](https://github.com/suleman2212/Leetcode/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/suleman2212/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2895-minimum-processing-time](https://github.com/suleman2212/Leetcode/tree/master/2895-minimum-processing-time) |
 ## Game Theory
 |  |
 | ------- |
@@ -141,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/suleman2212/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Sorting
+|  |
+| ------- |
+| [2895-minimum-processing-time](https://github.com/suleman2212/Leetcode/tree/master/2895-minimum-processing-time) |
 <!---LeetCode Topics End-->
