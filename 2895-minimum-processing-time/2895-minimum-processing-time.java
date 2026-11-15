@@ -3,13 +3,18 @@ class Solution {
     {
         Collections.sort(processorTime);
         // tasks.sort(Collections.reverseOrder());
-        tasks.sort((a,b)->Integer.compare(b,a));
+        Collections.sort(tasks);
         int max=0;
+        int j=tasks.size()-1;
+        
         for(int i=0;i<processorTime.size();i++)
         {
-            for(int j=0;j<4;j++)
+            int c=0;
+            while(c<4)
             {
-                max=Math.max(max,processorTime.get(i)+tasks.remove(0));
+                max=Math.max(max,processorTime.get(i)+tasks.get(j));
+                c++;
+                j--;
             }
         }
         return max;
