@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/suleman2212/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/suleman2212/Leetcode/tree/master/0213-house-robber-ii) |
 | [0485-max-consecutive-ones](https://github.com/suleman2212/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/suleman2212/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0746-min-cost-climbing-stairs](https://github.com/suleman2212/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/suleman2212/Leetcode/tree/master/0877-stone-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/suleman2212/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/suleman2212/Leetcode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/suleman2212/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/suleman2212/Leetcode/tree/master/0213-house-robber-ii) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/suleman2212/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0746-min-cost-climbing-stairs](https://github.com/suleman2212/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/suleman2212/Leetcode/tree/master/0877-stone-game) |
 ## Minimax
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/suleman2212/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/suleman2212/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/suleman2212/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Linked List
 |  |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/suleman2212/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/suleman2212/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -168,4 +172,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/suleman2212/Leetcode/tree/master/0075-sort-colors) |
+## Rolling Hash
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/suleman2212/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/suleman2212/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 <!---LeetCode Topics End-->
