@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/suleman2212/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0746-min-cost-climbing-stairs](https://github.com/suleman2212/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/suleman2212/Leetcode/tree/master/0877-stone-game) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/suleman2212/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/suleman2212/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2895-minimum-processing-time](https://github.com/suleman2212/Leetcode/tree/master/2895-minimum-processing-time) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/suleman2212/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/suleman2212/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/suleman2212/Leetcode/tree/master/0189-rotate-array) |
 | [0877-stone-game](https://github.com/suleman2212/Leetcode/tree/master/0877-stone-game) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/suleman2212/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1927-sum-game](https://github.com/suleman2212/Leetcode/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/suleman2212/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/suleman2212/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/suleman2212/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/suleman2212/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Breadth-First Search
 |  |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/suleman2212/Leetcode/tree/master/0062-unique-paths) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/suleman2212/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Queue
 |  |
 | ------- |
@@ -193,4 +197,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/suleman2212/Leetcode/tree/master/0005-longest-palindromic-substring) |
+## Backtracking
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/suleman2212/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/suleman2212/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
