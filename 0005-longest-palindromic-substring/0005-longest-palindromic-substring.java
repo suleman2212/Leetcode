@@ -27,5 +27,5 @@ class Solution {
             right++;
         }
         return right-left-1;
-    }
+    } 
 }
